@@ -5,7 +5,7 @@ layout: page
 {: style="text-align:center"}
 ![leonardo-dos-santos](images/profile.png "Leonardo A. dos Santos")
 
-I am a researcher at the Geneva Observatory and a member of the [NCCR PlanetS](http://nccr-planets.ch) collaboration. In the Fall 2021 I will join the [Space Telescope Science Institute](https://www.stsci.edu) as an STScI Fellow. My pronouns are he/him/his.
+I am a researcher at the Geneva Observatory and a member of the [NCCR PlanetS](http://nccr-planets.ch) collaboration. In the Fall 2021 I will join the [Space Telescope Science Institute](https://www.stsci.edu) as an STScI Fellow. I was born in Brazil and identify myself as a latino of mixed races (in Portuguese: *pardo*). My pronouns are he/him/his.
 
 My main research topic is the detection and characterization of extra-solar planets, more specifically their upper atmospheres. I am also interested in solving problems related to the observation and description of stellar atmospheres and developing scientific software for the astronomical community. The main instruments I use in my research are high-resolution and/or space-based spectrographs.
 
