@@ -6,9 +6,11 @@ permalink: /br/
 {: style="text-align:center"}
 ![leonardo-dos-santos](../images/profile.png "Leonardo A. dos Santos")
 
-Eu sou um pesquisador no Observatório de Genebra e um membro da colaboração [NCCR PlanetS](http://nccr-planets.ch). Em 2021 eu me tornarei um *STScI Fellow* no [*Space Telescope Science Institute*](https://www.stsci.edu). Eu me identifico como pardo e meus pronomes são ele/dele.
+Eu sou um *STScI Fellow* (pós-doutor) no [*Space Telescope Science Institute*](https://www.stsci.edu) e cientista de suporte no time do instrumento STIS no Telescópio Espacial *Hubble*. Eu me identifico como pardo e meus pronomes são ele/dele.
 
-Meu tópico de pesquisa principal é detecção e caracterização de planetas extra-solares, mais especificamente as suas atmosferas. Eu também sou interessado em resolver problemas relacionados à observação e descrição de atmosferas estelares, e o desenvolvimento de *software* para a comunidade astronômica. Os principais instrumentos que eu uso na minha pesquisa são espectrógrafos de alta resolução em telescópios espaciais e na Terra.
+My main research topic is the characterization of extra-solar planets and their atmospheres. I am also interested in solving problems related to the observation and description of stellar atmospheres and developing scientific software for the astronomical community. The main instruments I use in my research are high-resolution and/or space-based spectrographs.
+
+Meu tópico de pesquisa principal é detecção e caracterização de planetas extra-solares e suas atmosferas. Eu também sou interessado em resolver problemas relacionados à observação e descrição de atmosferas estelares, e o desenvolvimento de *software* para a comunidade astronômica. Os principais instrumentos que eu uso na minha pesquisa são espectrógrafos de alta resolução em telescópios espaciais e na Terra.
 
 ---
 

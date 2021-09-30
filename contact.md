@@ -6,8 +6,8 @@ permalink: /contact/
 
 You will not find me on social media. Instead, feel free to shoot me an email, give me a call, or even send a letter.
 
-:envelope: Chemin Pegasi 51, 1290 Versoix, Switzerland
+:envelope: 3700 San Martin Drive, Baltimore, MD 21218 United States
 
-:telephone_receiver: +41 22 379 24 00
+:telephone_receiver: +1 410 338 4395
 
-:computer: [Leonardo.dosSantos /at\ unige.ch](mailto:leonardo.dossantos@unige.ch)
+:computer: [ldsantos /at\ stsci.edu](mailto:ldsantos@stsci.edu)
