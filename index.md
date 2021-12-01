@@ -21,13 +21,13 @@ My talks on public record:
 
 My full list of publications can be found on [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22dos%20Santos%2C%20L.%20A.%22%20AND%20database%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc&p_=0). Here are some highlights:
 
-* L. A. dos Santos, D. Ehrenreich, V. Bourrier, et al. 2020, [The high-energy environment and atmospheric escape of the mini-Neptune K2-18 b](https://ui.adsabs.harvard.edu/abs/2020A%26A...634L...4D/abstract), A&A Letters 634.
+* L. A. Dos Santos, A. A. Vidotto, S. Vissapragada, et al. 2021 [`p-winds`: an open-source Python code to model planetary outflows and upper atmospheres](https://ui.adsabs.harvard.edu/abs/2021arXiv211111370D/abstract), A&A in press.
 
-* L. A. dos Santos, D. Ehrenreich, V. Bourrier, et al. 2020, [Search for helium in the upper atmosphere of the hot Jupiter WASP-127 b using Gemini/Phoenix](https://ui.adsabs.harvard.edu/abs/2020A%26A...640A..29D/abstract), A&A 640.
+* L. A. Dos Santos, D. Ehrenreich, V. Bourrier, et al. 2020, [The high-energy environment and atmospheric escape of the mini-Neptune K2-18 b](https://ui.adsabs.harvard.edu/abs/2020A%26A...634L...4D/abstract), A&A Letters 634.
 
-* D. Lorenzo-Oliveira, J. Meléndez, Yana Galarza, J. et al. 2019, [Constraining the evolution of stellar rotation using solar twins](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485L..68L/abstract), MNRAS 482.
+* L. A. Dos Santos, D. Ehrenreich, V. Bourrier, et al. 2020, [The Hubble PanCET program: an extensive search for metallic ions in the exosphere of GJ 436 b](https://ui.adsabs.harvard.edu/abs/2019A%26A...629A..47D/abstract), A&A 629.
 
-* L. A. dos Santos, J. Meléndez, J.-D. do Nascimento, et al. 2016, [The Sun as a typical rotator and evidence for a new rotational braking law for Sun-like stars](https://ui.adsabs.harvard.edu/abs/2016A%26A...592A.156D/abstract), A&A 592.
+* L. A. Dos Santos, J. Meléndez, J.-D. do Nascimento, et al. 2016, [The Sun as a typical rotator and evidence for a new rotational braking law for Sun-like stars](https://ui.adsabs.harvard.edu/abs/2016A%26A...592A.156D/abstract), A&A 592.
 
 You can also look me up on <a href="https://orcid.org/0000-0002-2248-3838" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-2248-3838</a> and <a href="https://scholar.google.com/citations?user=qtgZdFIAAAAJ">Google Scholar</a>.
 
