@@ -5,7 +5,7 @@ layout: page
 {: style="text-align:center"}
 ![leonardo-dos-santos](images/profile.png "Leonardo A. dos Santos")
 
-I am a Postdoctoral Fellow at the [Space Telescope Science Institute](https://www.stsci.edu) and a support scientist for the STIS instrument team of the *Hubble Space Telescope*. I was born in Brazil and identify myself as a latino of mixed races (in Portuguese: *pardo*). My pronouns are he/him/his. 
+I am a Postdoctoral Fellow at the [Space Telescope Science Institute](https://www.stsci.edu) working with the STIS instrument team of the *Hubble Space Telescope*. I was born in Brazil and identify myself as a latino of mixed races (in Portuguese: *pardo*). My pronouns are he/him/his. 
 
 My main research topic is the characterization of extra-solar planets and their atmospheres. I am also interested in solving problems related to the observation and description of stellar atmospheres and developing scientific software for the astronomical community. The main instruments I use in my research are high-resolution and/or space-based spectrographs.
 
