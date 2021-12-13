@@ -10,4 +10,4 @@ You will not find me on social media. Instead, feel free to shoot me an email, g
 
 :telephone_receiver: +1 410 338 4395
 
-:computer: [ldsantos /at\ stsci.edu](mailto:ldsantos@stsci.edu)
+:computer: [me /at\ ladsantos.org](mailto:me@ladsantos.org)
