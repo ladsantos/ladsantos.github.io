@@ -7,7 +7,7 @@ layout: page
 
 I am a Postdoctoral Fellow at the [Space Telescope Science Institute](https://www.stsci.edu) working with the STIS instrument team of the *Hubble Space Telescope*. I was born in Brazil and identify myself as a latino of mixed races (in Portuguese: *pardo*). My pronouns are he/him/his. 
 
-My main research topic is the characterization of extra-solar planets and their atmospheres. I am also interested in solving problems related to the observation and description of stellar atmospheres and developing scientific software for the astronomical community. The main instruments I use in my research are high-resolution and/or space-based spectrographs.
+My main research topic is the [characterization of extra-solar planets and their atmospheres](research). I am also interested in solving problems related to the observation and description of stellar atmospheres and developing scientific software for the astronomical community. The main instruments I use in my research are high-resolution and/or space-based spectrographs.
 
 ---
 
@@ -37,18 +37,8 @@ Occasionally I [write software](https://github.com/ladsantos) in Python and scri
 
 * [`p-winds`](https://p-winds.readthedocs.io/): Isothermal Parker wind models for upper atmospheres of planets. Feel free to [create a pull request](https://github.com/ladsantos/p-winds/pulls) or [submit issues](https://github.com/ladsantos/p-winds/issues) on GitHub!
 
+* [`wesh`](https://github.com/ladsantos/wesh): Splice echelle spectra.
+
+* [`flatstar`](https://github.com/ladsantos/flatstar): Draw (exo)planetary transits.
+
 * [`sunburn`](https://github.com/ladsantos/sunburn): Data analysis package of HST far-UV spectra.
-
-* [`radial`](https://github.com/ladsantos/radial): Pure Python code for working with radial velocities of stars with a companion (checkout the tutorial notebooks [here](https://github.com/ladsantos/RV_PS2017)).
-
-* [`onza`](https://github.com/ladsantos/onza): Exospheres in transmission spectroscopy.
-
----
-
-Some useful book-keeping resources for exoplanet science:
-
-* List of exoplanets that have had their atmospheres probed in transmission and published: [exoplanet_transmission_list.txt](https://gist.github.com/ladsantos/33188da3be28941a2224cd7780445ec1). My plan is to make this an exhaustive list, so if you know of an exoplanet that is not listed in there, drop me a comment.
-
-* [Non-exhaustive archive of exoplanet transmission spectra](https://stellarplanet.org/science/exoplanet-transmission-spectra/) (maintained by H. Wakeford)
-
-* [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu)
