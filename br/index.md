@@ -8,7 +8,7 @@ permalink: /br/
 
 Eu sou um *STScI Fellow* (pós-doutor) no [*Space Telescope Science Institute*](https://www.stsci.edu) e cientista de suporte no time do instrumento STIS no Telescópio Espacial *Hubble*. Eu me identifico como pardo e meus pronomes são ele/dele.
 
-Meu tópico de pesquisa principal é detecção e caracterização de planetas extra-solares e suas atmosferas. Eu também sou interessado em resolver problemas relacionados à observação e descrição de atmosferas estelares, e o desenvolvimento de *software* para a comunidade astronômica. Os principais instrumentos que eu uso na minha pesquisa são espectrógrafos de alta resolução em telescópios espaciais e na Terra.
+Meu tópico de pesquisa principal é [detecção e caracterização de planetas extra-solares e suas atmosferas](pesquisa). Eu também sou interessado em resolver problemas relacionados à observação e descrição de atmosferas estelares, e o desenvolvimento de *software* para a comunidade astronômica. Os principais instrumentos que eu uso na minha pesquisa são espectrógrafos de alta resolução em telescópios espaciais e na Terra.
 
 ---
 
