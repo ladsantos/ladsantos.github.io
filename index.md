@@ -16,6 +16,7 @@ My talks on public record:
 * [5th NUVA Workshop, 27 October 2020, virtual conference](https://exoplanet-talks.org/talk/261)
 * [SAG21 Community Symposium, 9 March 2021, virtual conference](https://www.youtube.com/watch?v=Tr0ZkuO1sn8)
 * [*Canal da SAB*, live chat/interview](https://youtu.be/Go74zYuRTLw) (in Portuguese)
+* [ExoExplorers program 2022, 18 February 2022, virtual seminar](https://www.youtube.com/watch?v=Wo4qDMcohF4)
 
 ---
 

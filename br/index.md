@@ -15,8 +15,9 @@ Meu tópico de pesquisa principal é [detecção e caracterização de planetas 
 Gravações disponíveis em público:
 
 * [*5th NUVA Workshop*, 27 outubro 2020, conferência virtual](https://exoplanet-talks.org/talk/261) (em inglês)
-* [*SAG21 Community Symposium*, 9 Março 2021, conferência virtual](https://www.youtube.com/watch?v=Tr0ZkuO1sn8) (em inglês)
+* [*SAG21 Community Symposium*, 9 março 2021, conferência virtual](https://www.youtube.com/watch?v=Tr0ZkuO1sn8) (em inglês)
 * [Canal da SAB, bate-papo *live*](https://youtu.be/Go74zYuRTLw)
+* [*ExoExplorers program 2022*, 18 fevereiro 2022, seminário virtual](https://www.youtube.com/watch?v=Wo4qDMcohF4) (em inglês)
 
 ---
 
