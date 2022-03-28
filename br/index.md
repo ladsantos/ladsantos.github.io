@@ -6,7 +6,7 @@ permalink: /br/
 {: style="text-align:center"}
 ![leonardo-dos-santos](../images/profile.png "Leonardo A. dos Santos")
 
-Eu sou um *STScI Fellow* (pós-doutor) no [*Space Telescope Science Institute*](https://www.stsci.edu) e cientista de suporte no time do instrumento STIS no Telescópio Espacial *Hubble*. Eu me identifico como pardo e meus pronomes são ele/dele.
+Eu sou um *STScI Fellow* (pós-doutor) no [*Space Telescope Science Institute*](https://www.stsci.edu) e cientista de suporte no time do instrumento STIS no Telescópio Espacial *Hubble*. Meus pronomes são ele/dele.
 
 Meu tópico de pesquisa principal é [detecção e caracterização de planetas extra-solares e suas atmosferas](pesquisa). Eu também sou interessado em resolver problemas relacionados à observação e descrição de atmosferas estelares, e o desenvolvimento de *software* para a comunidade astronômica. Os principais instrumentos que eu uso na minha pesquisa são espectrógrafos de alta resolução em telescópios espaciais e na Terra.
 
@@ -23,7 +23,7 @@ Gravações disponíveis em público:
 
 Minha lista completa de publicações pode ser encontrada no [ADS](https://ui.adsabs.harvard.edu/search/q=author%3A%22dos%20Santos%2C%20L.%20A.%22%20AND%20database%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc&p_=0). Aqui vão alguns destaques:
 
-* L. A. Dos Santos, A. A. Vidotto, S. Vissapragada, et al. 2021 [`p-winds`: *an open-source Python code to model planetary outflows and upper atmospheres*](https://ui.adsabs.harvard.edu/abs/2021arXiv211111370D/abstract), A&A in press.
+* L. A. Dos Santos, A. A. Vidotto, S. Vissapragada, et al. 2021 [`p-winds`: *an open-source Python code to model planetary outflows and upper atmospheres*](https://ui.adsabs.harvard.edu/abs/2022A%26A...659A..62D/abstract), A&A 659.
 
 * L. A. Dos Santos, D. Ehrenreich, V. Bourrier, et al. 2020, [*The high-energy environment and atmospheric escape of the mini-Neptune K2-18 b*](https://ui.adsabs.harvard.edu/abs/2020A%26A...634L...4D/abstract), A&A Letters 634.
 
