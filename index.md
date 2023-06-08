@@ -38,7 +38,7 @@ Occasionally I [write software](https://github.com/ladsantos) in Python and scri
 
 * [`p-winds`](https://p-winds.readthedocs.io/): Isothermal Parker wind models for upper atmospheres of planets. Feel free to [create a pull request](https://github.com/ladsantos/p-winds/pulls) or [submit issues](https://github.com/ladsantos/p-winds/issues) on GitHub!
 
-* [`wesh`](https://github.com/ladsantos/wesh): Splice echelle spectra.
+* [`stissplice`](https://github.com/ladsantos/stissplice): Splice echelle spectra from STIS.
 
 * [`flatstar`](https://github.com/ladsantos/flatstar): Draw (exo)planetary transits.
 
