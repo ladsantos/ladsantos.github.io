@@ -8,7 +8,7 @@ permalink: /br/
 
 Eu sou um *STScI Fellow* (pós-doutor) no [*Space Telescope Science Institute*](https://www.stsci.edu) e cientista de suporte no time do instrumento STIS no Telescópio Espacial *Hubble*. Meus pronomes são ele/dele.
 
-Meu tópico de pesquisa principal é [detecção e caracterização de planetas extra-solares e suas atmosferas](pesquisa). Eu também sou interessado em resolver problemas relacionados à observação e descrição de atmosferas estelares, e o desenvolvimento de *software* para a comunidade astronômica. Os principais instrumentos que eu uso na minha pesquisa são espectrógrafos de alta resolução em telescópios espaciais e na Terra.
+Meu tópico de pesquisa principal é [detecção e caracterização de planetas extra-solares e suas atmosferas](pesquisa). Eu também tenho interesse em atmosferas estelares e no desenvolvimento de *software* para a comunidade astronômica. Os principais instrumentos que eu uso na minha pesquisa são espectrógrafos de alta resolução em telescópios espaciais e na Terra.
 
 ---
 
@@ -39,7 +39,7 @@ Ocasionalmente eu [desenvolvo *software*](https://github.com/ladsantos) em Pytho
 
 * [`p-winds`](https://p-winds.readthedocs.io/): Modelos de vento Parker para atmosferas de exoplanetas. Fique à vontade para [criar um *pull request*](https://github.com/ladsantos/p-winds/pulls) ou [submeter *issues*](https://github.com/ladsantos/p-winds/issues) no GitHub!
 
-* [`wesh`](https://github.com/ladsantos/wesh): Conecte ordens espectrais em dados do tipo *echelle*.
+* [`stissplice`](https://github.com/ladsantos/stissplice): Conecte ordens espectrais em dados do espectrógrafo STIS.
 
 * [`flatstar`](https://github.com/ladsantos/flatstar): Desenhe trânsitos (exo)planetários.
 
