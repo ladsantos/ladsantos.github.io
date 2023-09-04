@@ -6,7 +6,7 @@ permalink: /br/
 {: style="text-align:center"}
 ![leonardo-dos-santos](../images/profile.png "Leonardo A. dos Santos")
 
-Eu sou um *STScI Fellow* (pós-doutor) no [*Space Telescope Science Institute*](https://www.stsci.edu) e cientista de suporte no time do instrumento STIS no Telescópio Espacial *Hubble*. Meus pronomes são ele/dele.
+Eu sou um *STScI Fellow* (pós-doutor) no [*Space Telescope Science Institute*](https://www.stsci.edu) e cientista de suporte no time do [instrumento COS](https://www.stsci.edu/hst/instrumentation/cos) no Telescópio Espacial *Hubble*. Meus pronomes são ele/dele.
 
 Meu tópico de pesquisa principal é [detecção e caracterização de planetas extra-solares e suas atmosferas](pesquisa). Eu também tenho interesse em atmosferas estelares e no desenvolvimento de *software* para a comunidade astronômica. Os principais instrumentos que eu uso na minha pesquisa são espectrógrafos de alta resolução em telescópios espaciais e na Terra.
 
