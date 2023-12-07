@@ -5,7 +5,7 @@ layout: page
 {: style="text-align:center"}
 ![leonardo-dos-santos](images/profile.png "Leonardo A. dos Santos")
 
-I am an Assistant Astronomer at the [Space Telescope Science Institute](https://www.stsci.edu) working with the [COS instrument](https://www.stsci.edu/hst/instrumentation/cos) team of the *Hubble Space Telescope*. I was born and raised in Brazil and my pronouns are he/him/his 🏳️‍🌈. 
+I am an Assistant Astronomer at the [Space Telescope Science Institute](https://www.stsci.edu) working with the [COS instrument](https://www.stsci.edu/hst/instrumentation/cos) team of the *Hubble Space Telescope*. I was born and raised in Brazil and my pronouns are he/him/his 🏳️‍🌈.
 
 My main research topic is the [characterization of extra-solar planets and their atmospheres](research). I am also interested in stellar atmospheres and developing scientific software for the astronomical community. The main instruments I use in my research are high-resolution and/or space-based spectrographs.
 
@@ -17,6 +17,7 @@ My talks on public record:
 * [SAG21 Community Symposium, 9 March 2021, virtual conference](https://www.youtube.com/watch?v=Tr0ZkuO1sn8)
 * [*Canal da SAB*, live chat/interview](https://youtu.be/Go74zYuRTLw) (in Portuguese)
 * [ExoExplorers program 2022, 18 February 2022, virtual seminar](https://www.youtube.com/watch?v=Wo4qDMcohF4)
+* [AAS Journals Author Series, 18 November 2023](https://www.youtube.com/watch?v=0GRwd6-qF-w)
 
 ---
 

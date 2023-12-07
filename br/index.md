@@ -18,6 +18,7 @@ Gravações disponíveis em público:
 * [*SAG21 Community Symposium*, 9 março 2021, conferência virtual](https://www.youtube.com/watch?v=Tr0ZkuO1sn8) (em inglês)
 * [Canal da SAB, bate-papo *live*](https://youtu.be/Go74zYuRTLw)
 * [*ExoExplorers program 2022*, 18 fevereiro 2022, seminário virtual](https://www.youtube.com/watch?v=Wo4qDMcohF4) (em inglês)
+* [*AAS Journals Author Series*, 18 November 2023](https://www.youtube.com/watch?v=0GRwd6-qF-w) (em inglês)
 
 ---
 
