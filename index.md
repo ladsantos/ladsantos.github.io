@@ -5,7 +5,7 @@ layout: page
 {: style="text-align:center"}
 ![leonardo-dos-santos](images/profile.png "Leonardo A. dos Santos")
 
-I am an Assistant Astronomer at the [Space Telescope Science Institute](https://www.stsci.edu) working with the [COS instrument](https://www.stsci.edu/hst/instrumentation/cos) team of the *Hubble Space Telescope*. I was born and raised in Brazil and my pronouns are he/him/his 🏳️‍🌈.
+I am an Assistant Astronomer at the [Space Telescope Science Institute](https://www.stsci.edu) working with the [COS instrument](https://www.stsci.edu/hst/instrumentation/cos) team of the *Hubble Space Telescope*.
 
 My main research topic is the [characterization of extra-solar planets and their atmospheres](research). I am also interested in stellar atmospheres and developing scientific software for the astronomical community. The main instruments I use in my research are high-resolution and/or space-based spectrographs.
 
