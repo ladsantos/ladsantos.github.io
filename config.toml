@@ -1,0 +1,64 @@
+baseURL = "https://ladsantos.github.io/"
+languageCode = "en-us"
+title = "Leonardo A. Dos Santos"
+theme = "papermod"
+logo = "/img/Leo-logo.png"
+
+[pagination]
+  pagerSize = 5
+
+defaultContentLanguage = "en"
+enableInlineShortcodes = true
+
+[params]
+  env = "production"
+  title = "Leonardo A. Dos Santos"
+  description = "Homepage"
+  keywords = ["astrophysics", "astronomy", "exoplanets"]
+  author = "Leonardo A. Dos Santos"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowBreadCrumbs = false
+  ShowPostNavLinks = false
+  ShowCodeCopyButtons = true
+  label.icon = "/img/Leo-logo.png"
+  favicon = "/img/Leo-logo.png"
+
+  # Profile header
+  [params.profileMode]
+    enabled = true
+    title = "Leonardo A. Dos Santos, PhD"
+    subtitle = "I am an Associate Astronomer at the [Space Telescope Science Institute](https://www.stsci.edu). I conduct research on exoplanetary systems and provide technical support for the Hubble Space Telescope."
+    imageUrl = "/img/profile.png"
+    imageWidth = 150
+    imageHeight = 150
+    buttons = [
+      { name = "Research", url = "/research/" },
+      { name = "About", url = "/about/" },
+      { name = "Contact", url = "/contact/" }
+    ]
+
+  [params.assets]
+    logo = "/img/Leo-logo.png"
+    favicon = "/img/Leo-logo.png"
+
+
+[menu]
+
+  [[menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "/research/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 3

@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+  {{ if templates.Exists "partials/index_profile.html" }}
+      {{ partial "index_profile.html" . }}
+  {{ end }}
+
+  <main class="main">
+    <article class="post-content">
+      {{ .Content }}
+    </article>
+  </main>
+
+{{ end }}
