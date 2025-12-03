@@ -36,7 +36,7 @@ enableInlineShortcodes = true
       { name = "Research", url = "/research/" },
       { name = "About", url = "/about/" },
       { name = "Contact", url = "/contact/" },
-      { name = "Publications", url = "https://ui.adsabs.harvard.edu/search/p_=1&q=author%3A%22dos%20Santos%2C%20L.%20A.%22%20AND%20database%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc" },
+      { name = "Publications", url = "https://ui.adsabs.harvard.edu/public-libraries/eMrxFdMSTDm5WX-3IjgXtA" },
       { name = "CV", url = "https://stsci.box.com/s/g6jscb588hd0l6px74g8phb4lxrul4lm" },
     ]
 

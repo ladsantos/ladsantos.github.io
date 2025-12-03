@@ -34,3 +34,4 @@ go.work.sum
 
 # Hugo stuff
 public/
+layouts/.DS_Store
