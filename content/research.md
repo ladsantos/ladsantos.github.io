@@ -22,7 +22,7 @@ We believe these planets are prone to losing a significant part of their atmosph
 Spectroscopy techniques
 -----------------------
 
-I have been doing astronomical spectroscopy since 2013, it is my bread and butter. I am particularly interested in spectral time series, spectral extraction, and transmission spectroscopy of exoplanetary atmospheres. Nowadays, I mostly use the *Hubble Space Telescope* in my research, but I have also experience with ground-based, high-resolution spectrographs, such as ESO/HARPS and Keck/NIRSPEC. In the future, I am looking forward to exploring atmospheres of other worlds using the *James Webb Space Telescope* and the giant telescopes in Chile.
+I have been doing astronomical spectroscopy since 2013, it is my bread and butter. I am particularly interested in spectral time series, spectral extraction, and transmission spectroscopy of exoplanetary atmospheres. Nowadays, I mostly use the *Hubble* and  *James Webb Space Telescopes* in my research, but I have also experience with ground-based, high-resolution spectrographs, such as ESO/HARPS and Keck/NIRSPEC. In the future, I am looking forward to exploring atmospheres of other worlds using the ELT-class telescopes and the [Habitable Worlds Observatory](https://habitableworldsobservatory.org).
 
 Solar twins
 -----------
