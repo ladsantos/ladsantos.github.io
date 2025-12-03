@@ -34,14 +34,23 @@ enableInlineShortcodes = true
     imageHeight = 150
     buttons = [
       { name = "Research", url = "/research/" },
-      { name = "Team", url = "/team/" },
       { name = "About", url = "/about/" },
-      { name = "Contact", url = "/contact/" }
+      { name = "Contact", url = "/contact/" },
+      { name = "Publications", url = "https://ui.adsabs.harvard.edu/search/p_=1&q=author%3A%22dos%20Santos%2C%20L.%20A.%22%20AND%20database%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc" },
+      { name = "CV", url = "https://stsci.box.com/s/g6jscb588hd0l6px74g8phb4lxrul4lm" },
     ]
 
   [params.assets]
     logo = "/img/Leo-logo.png"
     favicon = "/img/Leo-logo.png"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/ladsantos"
+
+  [[params.socialIcons]]
+    name = "googlescholar"
+    url  = "https://scholar.google.com/citations?user=qtgZdFIAAAAJ"
 
 
 [menu]
@@ -59,19 +68,13 @@ enableInlineShortcodes = true
     weight = 2
 
   [[menu.main]]
-    identifier = "team"
-    name = "Team"
-    url = "/team/"
-    weight = 3
-
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 4
+    weight = 3
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 4
