@@ -16,7 +16,6 @@ His main research topic is the **characterization of extra-solar planetary syste
 **Professional appointments**
 
 - 2025 – now: Associate Astronomer, Space Telescope Science Institute, United States.
-- 2024 – now: Associate Research Scientist, Johns Hopkins University, United States.
 - 2023 – 2025: Assistant Astronomer, Space Telescope Science Institute, United States.
 - 2021 – 2023: Postdoctoral Fellow, Space Telescope Science Institute, United States.
 - 2017 – 2021: Research Assistant, University of Geneva, Department of Astronomy, Switzerland.
