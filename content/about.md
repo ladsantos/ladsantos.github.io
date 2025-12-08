@@ -23,7 +23,7 @@ His main research topic is the **characterization of extra-solar planetary syste
 
 **Publications**
 
-See a full publication list on the [Astrophysics Data System](https://ui.adsabs.harvard.edu/public-libraries/eMrxFdMSTDm5WX-3IjgXtA). You can also find him on [ORCID 0000-0002-2248-3838](https://orcid.org/0000-0002-2248-3838) and [Google Scholar](https://scholar.google.com/citations?user=qtgZdFIAAAAJ).
+See a full publication list on the [Astrophysics Data System](https://ui.adsabs.harvard.edu/public-libraries/eMrxFdMSTDm5WX-3IjgXtA) and the [SciX database](https://scixplorer.org/public-libraries/eMrxFdMSTDm5WX-3IjgXtA). You can also find him on [ORCID 0000-0002-2248-3838](https://orcid.org/0000-0002-2248-3838) and [Google Scholar](https://scholar.google.com/citations?user=qtgZdFIAAAAJ).
 
 **Software**
 
