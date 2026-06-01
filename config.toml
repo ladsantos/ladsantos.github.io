@@ -33,6 +33,7 @@ enableInlineShortcodes = true
     imageWidth = 150
     imageHeight = 150
     buttons = [
+      { name = "News", url = "/posts/" },
       { name = "Research", url = "/research/" },
       { name = "About", url = "/about/" },
       { name = "Contact", url = "/contact/" },
@@ -62,19 +63,25 @@ enableInlineShortcodes = true
     weight = 1
 
   [[menu.main]]
+    identifier = "news"
+    name = "News"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
     identifier = "research"
     name = "Research"
     url = "/research/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 5
