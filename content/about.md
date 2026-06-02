@@ -1,6 +1,7 @@
 ---
 title: About
 permalink: /about/
+comments: false
 ---
 
 Dr. Leonardo A. Dos Santos is an Associate Astronomer at the [Space Telescope Science Institute](https://www.stsci.edu) working with the [COS instrument](https://www.stsci.edu/hst/instrumentation/cos) team of the *Hubble Space Telescope*.

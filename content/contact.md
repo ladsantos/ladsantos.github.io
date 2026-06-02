@@ -1,6 +1,7 @@
 ---
 title: Contact
 permalink: /contact/
+comments: false
 ---
 
 ✉️ 3700 San Martin Drive, Baltimore, MD 21218, United States

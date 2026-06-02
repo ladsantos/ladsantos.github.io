@@ -1,6 +1,7 @@
 ---
 title: Research
 permalink: /research/
+comments: false
 ---
 
 I am interested in several topics related to extrasolar planets (exoplanets), their atmospheres, and  stars similar to the Sun (solar twins).
