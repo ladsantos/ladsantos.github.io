@@ -2,7 +2,7 @@
 title: 'Attend the "From Stars to Life" workshop in Natal, Brazil'
 date: 2026-06-01T15:21:00-04:00
 description: 'Call for Abstracts and Grant Applications are open'
-tags: ["Exoplanets", "Astronomy", "Habitability", "Atmospheres"]
+tags: ["Events"]
 categories: ["Events"]
 author: "Leonardo"
 draft: false
@@ -11,7 +11,7 @@ draft: false
 showToc: false
 TocOpen: false
 hidemeta: false
-comments: false
+comments: true
 disableShare: false
 hideSummary: false
 searchHidden: false

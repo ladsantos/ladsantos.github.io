@@ -3,33 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/astronomy/</loc>
-    <lastmod>2026-06-01T15:21:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/atmospheres/</loc>
-    <lastmod>2026-06-01T15:21:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/2026-06-01_workshop_natal/</loc>
-    <lastmod>2026-06-01T15:21:00-04:00</lastmod>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/exoplanets/</loc>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/draft_hst_white_papers/</loc>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hubble/</loc>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/publications/</loc>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2026-06-01_workshop_natal/</loc>
     <lastmod>2026-06-01T15:21:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/events/</loc>
     <lastmod>2026-06-01T15:21:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/exoplanets/</loc>
-    <lastmod>2026-06-01T15:21:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/habitability/</loc>
-    <lastmod>2026-06-01T15:21:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-01T15:21:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-06-01T15:21:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/events/</loc>
     <lastmod>2026-06-01T15:21:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>

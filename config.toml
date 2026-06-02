@@ -23,6 +23,7 @@ enableInlineShortcodes = true
   ShowCodeCopyButtons = true
   label.icon = "/img/Leo-logo.png"
   favicon = "/img/Leo-logo.png"
+  comments = true
 
   # Profile header
   [params.profileMode]
@@ -33,10 +34,6 @@ enableInlineShortcodes = true
     imageWidth = 150
     imageHeight = 150
     buttons = [
-      { name = "News", url = "/posts/" },
-      { name = "Research", url = "/research/" },
-      { name = "About", url = "/about/" },
-      { name = "Contact", url = "/contact/" },
       { name = "Publications", url = "https://ui.adsabs.harvard.edu/public-libraries/eMrxFdMSTDm5WX-3IjgXtA" },
       { name = "CV", url = "https://stsci.box.com/s/g6jscb588hd0l6px74g8phb4lxrul4lm" },
     ]
