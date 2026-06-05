@@ -1,7 +1,7 @@
 ---
 title: 'HST 2030s white papers in the arXiv'
 date: 2026-06-02T16:25:00-00:00
-description: 'Toward an orbital boost for our favorite space telescope'
+description: 'Toward an orbital boost for our beloved space telescope'
 tags: ["Publications"]
 categories: ["Publications"]
 author: "Leonardo"
@@ -32,6 +32,7 @@ I led a white paper on atmospheric escape in exoplanets, which I [posted on arXi
 - [White dwarf planetary systems in the ultraviolet](https://arxiv.org/abs/2605.26152)
 - [Exploring Space Weather From Young Solar-like Stars as Windows to Exoplanetary Habitability](https://arxiv.org/abs/2605.26150)
 - [From Hubble to HWO: Bridging the Frontier of White Dwarf Exoplanet Science](https://arxiv.org/abs/2605.26142)
+- [Characterizing Transiting Exoplanet Atmospheres in the 2030s with the Hubble Space Telescope](https://arxiv.org/abs/2606.04144)
 
 I am sure that there are other submitted white papers on this topic as well, as not everyone posted their submission on arXiv -- which I highly encourage authors to do, as it gives visibility to the many different science cases that HST is capable of addressing within the next decade.
 
