@@ -6,8 +6,15 @@
     <description>Recent content in Home on Leonardo A. Dos Santos</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 16:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conferences I am attending this summer</title>
+      <link>http://localhost:1313/posts/2026-06-11_summer_conferences/</link>
+      <pubDate>Thu, 11 Jun 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026-06-11_summer_conferences/</guid>
+      <description>Sticking to European events this time around</description>
+    </item>
     <item>
       <title>HST 2030s white papers in the arXiv</title>
       <link>http://localhost:1313/posts/2026-06-02_hst_white_papers/</link>
